@@ -1,0 +1,9 @@
+<resource>
+    <string>
+        Android:id="@+id/T01"
+        NAME    : + update.getMessage().getFrom().getFirstName()
+        UID     : + update.getMessage().getChatId()
+        PLAN    : no plan
+        BALLANCE: oo
+    </string>
+</resource>
